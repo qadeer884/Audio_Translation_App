@@ -1,2 +1,30 @@
 # Audio_Translation_App
- A Streamlit-based web application that uses OpenAI's Whisper model for accurate speech recognition and transcription. The app allows users to upload audio files, transcribe them into text, translate the text into multiple languages, and convert the translated text back into speech for playback and download
+# 🎵 Audio Translation App
+
+## 🌟 Overview
+The **Audio Translation App** leverages **OpenAI's Whisper model** for accurate speech recognition. It allows users to upload audio files, transcribe them into text, and convert the translated text back into audio, providing a seamless language translation experience.  
+
+---
+
+## 🚀 Key Features
+- 🎙️ **Whisper-powered transcription** for precise speech-to-text conversion.  
+- 🌐 Translation of transcribed text into multiple languages.  
+- 🔊 Audio playback and download of the translated output.  
+- 🎈 Built with **Streamlit** for an intuitive user interface.  
+
+---
+
+## 🛠️ Technologies Used
+- **Python** 🐍  
+- **Streamlit** 🎈  
+- **OpenAI Whisper** 🧠 (speech recognition)  
+- **gTTS** 🔊 (text-to-speech)  
+- **Googletrans** 🌎 (language translation)  
+
+---
+
+## 💡 How to Run
+1. Clone the repository:  
+   ```bash
+
+
