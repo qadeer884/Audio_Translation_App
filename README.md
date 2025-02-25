@@ -23,8 +23,3 @@ The **Audio Translation App** leverages **OpenAI's Whisper model** for accurate 
 
 ---
 
-## 💡 How to Run
-1. Clone the repository:  
-   ```bash
-
-
